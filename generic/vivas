@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The Viva</title>
+  <meta name="description" content="An outline of this week's agenda.">
+  <meta name="author" content="The Games Academy">
+
+  <link rel="stylesheet" href="../css/main.css">
+
+</head>
+
+<body>
+  <p>
+      In this session we will conduct vivas of your work based on the assigned tasks. 
+      Please note it is the artefacts that you have
+      produced that are under assessment, 
+      and you are not at all being marked on your performance on the day. 
+      The viva serves as an opportunity to:
+      explore your working practice and feed back to you;  
+      highlight interesting challenges and accomplishments;
+      discuss how you approached the task and what you learned;
+      and identify further opportunities for personal development.
+      You need not do anything specific to prepare, however it is advisable that you familiarise
+      yourself with the codebase if you don't feel comfortable describing it.      
+  </p>
+
+  <b>Resources:</b>
+
+  <ul>
+      <li><a target="_parent" href="http://learningspace.falmouth.ac.uk/mod/resource/view.php?id=51424">A Student's Guide to the Viva</a></li>
+  </ul>
+
+</body>
+</html>
+
+
